@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://misikora.github.io/Ruler/</loc>
+     <lastmod>2020-11-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://misikora.github.io/Ruler/user-guide/</loc>
+     <lastmod>2020-11-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://misikora.github.io/Ruler/api/</loc>
+     <lastmod>2020-11-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://misikora.github.io/Ruler/changelog/</loc>
+     <lastmod>2020-11-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://misikora.github.io/Ruler/releasing/</loc>
+     <lastmod>2020-11-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
